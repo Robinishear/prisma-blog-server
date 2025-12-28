@@ -14,3 +14,4 @@ const createPost = async (data: Omit<Post, 'id' | 'createdAt' | 'updatedAt' | 'a
 export const postService = {
     createPost
 }
+// iofjg foijfhfkf  
